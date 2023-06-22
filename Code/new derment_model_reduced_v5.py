@@ -3,7 +3,6 @@
 """
 Created on Tue Jul 31 10:53:50 2018
 
-@author: jamesmanzi
 """
 
 
